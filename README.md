@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sebok Das
 #### A passionate MERN Stack Developer from Bangladesh
-![A passionate MERN Stack Developer from Bangladesh](https://i.ibb.co/c6bTq8p/linkedinbanner.png)
+![A passionate MERN Stack Developer from Bangladesh](https://i.ibb.co/yFcnjRp/linkedinbanner.png)
 
 Hello,
 I am Sebok Das, a skilled and professional Front-End developer as well as a React developer. I have been working in these fields for a while and have gained much experience. I only need a chance to prove my worthiness. I enjoy working online. I am also skilled in more than 3 languages (English, Hindi, Bangla(Native), etc).

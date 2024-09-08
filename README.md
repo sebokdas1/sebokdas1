@@ -1,22 +1,19 @@
 
-![A passionate MERN Stack Developer from Bangladesh](https://i.ibb.co/yFcnjRp/linkedinbanner.png)
+Hi! My name is Sebok Das 😄
+========================================================================================================================================
 
-Hello,
-I am Sebok Das, a skilled and professional Front-End developer as well as a React developer. I have been working in these fields for a while and have gained much experience. I only need a chance to prove my worthiness. I enjoy working online. I am also skilled in more than 3 languages (English, Hindi, Bangla(Native), etc).
+🌍  I am a Front-End Developer based in Cox's Bazar, Bangladesh.
+<br/>
 
-PROGRAMMING SKILLS:
-Expertise: Html, Css, Bootstrap, JavaScript (ES6), React.Js, React-Bootstrap.
-Comfortable: Node.Js, Express.Js, MongoDB, Rest APIs.
-Familiar: Tailwind-css, Payment gateway, Psd and Xd.
-Tools: Github, Netlify, Firebase, Heroku, VScode, Chrome Dev tools, Figma.
+### Skills
 
-Whatsapp; +8801730661569
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
 
-Skills:  REACT / JS / HTML / CSS / Node / Express / MongoDB / Firebase
+### Socials
 
-- 🔭 I’m currently working on talentbox labs 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: sebok.das66@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sebokdas1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebokdasbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sebokdasbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18894459)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sebokdas-33115.web.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+8801730661569)  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sebokdasbd/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
